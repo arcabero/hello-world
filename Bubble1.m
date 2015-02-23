@@ -15,11 +15,7 @@ function SortedVector = Bubble1(InputData)
 A=InputData;
 
 % Bubble sort algorithm
-<<<<<<< HEAD
-% Cambios en la version de escritorio
-=======
-% Cambio en la version Web
->>>>>>> origin/Matlab-folder
+% Cambios en la version de escritorio - definitivo
 numElements = length(A);
 swapped = 1;
 while (swapped ==1)
